@@ -1,4 +1,15 @@
 class PagesController < ApplicationController
+    
     def show
     end
-end  
+    
+    def home
+
+    end
+
+    def about
+
+    end
+
+end
+  
